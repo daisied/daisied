@@ -27,7 +27,8 @@
 
 ### couldn't pin these, but worth a look
 
-- [**Lingo**](https://github.com/daisied/lingo) - Discord language immersion: auto-translate chat, original one click away  
-- [**Idleline**](https://github.com/daisied/idleline) - ESP32 OBD dash firmware: built the version I wanted  
+- [**Idleline**](https://github.com/daisied/idleline) - ESP32 OBD dash firmware: built the version I wanted
+- [**Katta**](https://github.com/daisied/katta) - personal research agent: tool-grounded answers, source diversity, persistent memory
+- [**Lingo**](https://github.com/daisied/lingo) - discord language immersion: auto-translate chat, original one click away  
 - **infra** *(private, prod-ish)* - two-site homelab: tunnels, failover, CI → private registry - uptime: [sudo.tf](https://sudo.tf)
 
