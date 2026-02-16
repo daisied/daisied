@@ -28,5 +28,5 @@
 ### couldn't pin these, but worth a look
 
 [**Lingo**](https://github.com/you/lingo) - Discord language immersion: auto-translate chat, original one click away  
-**infra** *(private, prod-ish)* - two-site homelab: tunnels, failover, CI → private registry
+**infra** *(private, prod-ish)* - two-site homelab: tunnels, failover, CI → private registry ([sudo.tf](https://sudo.tf) - infra uptime)
 
